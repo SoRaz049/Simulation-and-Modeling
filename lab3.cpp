@@ -6,7 +6,7 @@ using namespace std;
 
 int main()
 {
-    int n;
+    int n,x;
     cout<<"Enter :";
     cin>>n;
     int x = rand();
